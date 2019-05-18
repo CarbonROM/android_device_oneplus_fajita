@@ -39,7 +39,7 @@ TARGET_VENDOR_PRODUCT_NAME := OnePlus6T
 TARGET_VENDOR_DEVICE_NAME := OnePlus6T
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.carbon.maintainer="Myself5"
+    ro.carbon.maintainer="Best Dev Myself5"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=OnePlus6T \
