@@ -4,9 +4,7 @@
     "target_path": "device/oneplus/sdm845-common"
   },
   {
-    "remote": "lineage",
-    "repository": "LineageOS/android_device_oneplus_common",
-    "target_path": "device/oneplus/common",
-    "revision": "lineage-17.1"
+    "repository": "CarbonROM/android_device_oneplus_common",
+    "target_path": "device/oneplus/common"
   }
 ]
