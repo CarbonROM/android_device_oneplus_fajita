@@ -1,4 +1,5 @@
 {
   "pushCert": "certificate version 0.1\npusher 89C2B5A1C7133FA9 1580361581 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_oneplus_fajita\nnonce 1580361581-1DD6401C93FA122C2719079D8DD46CC087B456F5\n\n0000000000000000000000000000000000000000 f4b137b8be9aad7b6afa952f7a0db6559518a0ae refs/for/cr-8.0\n-----BEGIN PGP SIGNATURE-----\n\niQGzBAABCgAdFiEEE91B+PEHlNWS9EUwicK1occTP6kFAl4yZ20ACgkQicK1occT\nP6kQSgwAlGs4+EneYgavdkX+4O5mN7157Qwaxj2haPSlxh1Ya3lmY31g6F71c7cE\n+18N5MsFP02AuAPwiSHsaMyUleRaEA0kOq2dgQ8yFLUWfpm/8xrOUrJ7btD4atE1\npN92LRhgCVL0CsktU6uIaiisZOw9Xr0zoniknSCnEi7w0DpaXI4bXECiVLtGh1ed\n6MEmp0H6CSOCjbKCVrL0ofTnNj+CVpwdx9G90pEeiIxrck9XZoBK4ddszsv/3mve\nL+4guU6rxk0IlbssamlghnZiRoY2mNLM72qazq1UGuzpoHZdA3t5T/70xn8Haxf6\nlRIesz4OPXJTdyq0SxoHrRY8VP9g5dfSQS1dvYCPLmTkeoTC8K4wQ7wigExfVB1J\naT8X5EY9x4puhkBeNTHE0X37wYLufEkD4opn3Zjck4je/Sq/WXWNLVsRqrX4bWuU\nDOhNCUT3vbhqzliwPA67sj2D/4VPxTFkbp93SnOy5glNuCbf08kBIhZQcRXQouzT\nX0G0srj5\n\u003dg1yY\n-----END PGP SIGNATURE-----\n",
-  "comments": []
+  "comments": [],
+  "submitRequirementResults": []
 }
